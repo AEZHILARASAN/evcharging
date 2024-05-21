@@ -6,6 +6,7 @@ With ever-increasing pollution levels and its impact on the environment, governm
 
 ## SCOPE OF THE PROJECT 
 The scope of the project encompasses the following key aspects:
+
  1. System Design and Development: 
 • Designing and implementing a web-based platform for Charging Slot Prediction and Automation System. 
 • Developing intuitive user interfaces for administrators, charging station owners, and EV users.
